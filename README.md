@@ -3,6 +3,7 @@
 Projeto: Web Scraping & Automação com Selenium
 
 👨‍💻 Autores
+
 Nome: Maria Fernanda Barreto Romão de Farias 
 Matrícula: 202208719821
 
