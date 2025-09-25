@@ -57,11 +57,7 @@ Escolha a opção desejada para rodar cada script.
 ![bio.json](./docs/imgs/bio.png)
 ---
 
-## Vídeo de Funcionamento
+## Vídeo de Demonstração
 
-Grave um vídeo mostrando a aplicação funcionando, suba no YouTube e coloque o link abaixo:
-
-**Link do vídeo:** [Cole aqui o link do vídeo no YouTube]
-
-## Link do Vídeo de Demonstração
+[![Assista ao vídeo no YouTube](https://img.youtube.com/vi/G1FCeJr42e0/0.jpg)](https://youtu.be/G1FCeJr42e0)
 
