@@ -1,0 +1,4 @@
+# Dependências do projeto de raspagem
+requests
+beautifulsoup4
+selenium
